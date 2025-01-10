@@ -8,6 +8,7 @@ OpenCV for image and video processing.
 NumPy for numerical operations.
 A pre-trained face recognition model from Google Teachable Machine.
 Installation Steps
+
 Step 1: Train the Model Using Google Teachable Machine
 Open your browser and visit the Google Teachable Machine website.
 Click on Get Started to begin creating a new project.
