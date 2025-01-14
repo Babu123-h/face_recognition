@@ -65,7 +65,10 @@ class_names = open("labels.txt", "r").readlines()
 camera = cv2.VideoCapture(0)
 
 #Required libraries
+
+
 ![image](https://github.com/user-attachments/assets/ef06524b-36cd-4471-bd70-9cfed277572d)
+
 
 while True:
     # Grab the webcamera's image.
